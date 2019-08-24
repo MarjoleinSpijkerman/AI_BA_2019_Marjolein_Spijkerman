@@ -1,5 +1,6 @@
 # AI_BA_2019_Marjolein_Spijkerman
-Author: Marjolein Spijkerman
+Author: Marjolein Spijkerman,
+
 24-08-2019
 
 The program code and the test files used in my bachelor project AI
